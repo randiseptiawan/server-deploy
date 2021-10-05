@@ -24,3 +24,4 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "homework-deploy-randi" #Must be unique in Heroku
           heroku_email: "randseptiawan@gmail.com"
+          dontuseforce: false
